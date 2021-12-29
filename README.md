@@ -3,6 +3,10 @@
 The files contain the geographic information of the municipalities of the state of Oaxaca, in addition to the number of the municipality according to the INE and INEGI.
 
 
+![App Screenshot](https://github.com/neomatrixcode/OaxacaSHP/blob/master/images/oaxaca.png?raw=true)
+
+
+
 ## Demo
 
 There is a project which uses the geographic information provided by this repository.
